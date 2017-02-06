@@ -22,3 +22,7 @@ Because [Node.js](http://nodejs.com/) is the future.
 - Payments Support (Stripe, Bitcoin, PayPal, ...)
 - Authentication using [Passport.js](http://passportjs.org/)
 and many more features comming soon...
+
+# Where to send requests and improvements?
+You can issue your improvement [here](https://github.com/OpenPress/OpenPress/issues).
+Or you can email it to [me](mailto:hasanbayat1393@gmail.com).
