@@ -20,6 +20,7 @@ Because [Node.js](http://nodejs.com/) is the future.
 - Database Support (MySQL, MongoDB, SQLite, PostgreSQL, Oracle, CouchDB, RethinkDB, Redis, DB2, SQL Server, JSON, XML, ...)
 - Payments Support (Stripe, Bitcoin, PayPal, ...)
 - Authentication using [Passport.js](http://passportjs.org/)
+
 and many more features comming soon...
 
 # Where to send requests and improvements?
