@@ -1,6 +1,5 @@
 # OpenPress
-OpenPress, Global Open Press.
-OpenPress, Its a web engine.
+OpenPress, Global Open Press, Its a web engine.
 
 # What is it?
 OpenPress is a web software you can use to create a beautiful website, blog or app.
