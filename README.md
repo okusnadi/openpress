@@ -41,4 +41,4 @@ Go [Here](https://trello.com/b/dDOAs3gl/openpress-frontend) to get our todo list
 
 ## How to get notified for any updates?
 
-Use the top right button "Watch". this will subscipbes you to any news from this repository.
+Use the top right button "Watch". this will subscribes you to any news from this repository.
