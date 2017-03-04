@@ -45,6 +45,6 @@ Use the top right button "Watch". this will subscribes you to any news from this
 
 ## Join Our Community
 
-[Gitter](https://gitter.im/openpress-dev) (named as openpress-dev)
+[Gitter](https://gitter.im/OpenPress/Lobby)
 
 [Slack](https://openpress-team.slack.com/messages/general/) (named as openpress-team)
