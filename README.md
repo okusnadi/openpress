@@ -48,3 +48,5 @@ Use the top right button "Watch". this will subscribes you to any news from this
 [Gitter](https://gitter.im/OpenPress/Lobby)
 
 [Slack](https://openpress-team.slack.com/messages/general/) (named as openpress-team)
+
+[Google Group](https://groups.google.com/forum/#!forum/openpress-team)
