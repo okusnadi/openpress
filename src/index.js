@@ -1,14 +1,10 @@
 const express = require('express');
-const app = express()
-
-class sample {}
-
-let newSample = new sample();
+const app = express();
 
 app.get('/', function(req, res) {
   res.send('Hello World!');
 });
 
-app.listen(80, function() {
+app.listen(80, "localhost", function() {
   console.log('Example app listening on port 80!');
 });

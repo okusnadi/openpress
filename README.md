@@ -35,9 +35,7 @@ Or you can email it to [me](mailto:hasanbayat1393@gmail.com).
 
 ## Where i see the development progress?
 
-Go [Here](https://trello.com/b/9eDarpdE/openpress-backend) to get our todo list and development progress for OpenPress Backend.
-
-Go [Here](https://trello.com/b/dDOAs3gl/openpress-frontend) to get our todo list and development progress for OpenPress Frontend.
+Go [Here](https://trello.com/b/9eDarpdE/openpress) to see our development board at [Trello](https://trello.com)
 
 ## How to get notified for any updates?
 
