@@ -49,4 +49,4 @@ Use the top right button "Watch". this will subscribes you to any news from this
 
 [Google Group](https://groups.google.com/forum/#!forum/openpress-team)
 
-[Google Plus](https://plus.google.com/communities/114236787377167376347)
+[Google+](https://plus.google.com/communities/114236787377167376347)
