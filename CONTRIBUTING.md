@@ -1,5 +1,5 @@
 # Contribution to OpenPress
-A little things you should know.
+A little things you should know before starting contribution.
 
 ## Reviews
 Every pull requests, or members changes needs to be **reviewed**.
