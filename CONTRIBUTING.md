@@ -1,6 +1,9 @@
 # Contribution to OpenPress
 A little things you should know before starting contribution.
 
+## Welcome
+Welcome! First off all we should say Thanks! Thanks for your notice and contribution. :tada: :clap: :+1:
+
 ## Reviews
 Every pull requests, or members changes needs to be **reviewed**.
 
