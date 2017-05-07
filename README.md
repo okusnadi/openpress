@@ -43,6 +43,8 @@ Use the top right button "Watch". this will subscribes you to any news from this
 
 ## Join Our Community
 
+[Telegram](t.me/openpress)
+
 [Gitter](https://gitter.im/OpenPress/Lobby)
 
 [Slack](https://openpress-team.slack.com/messages/general/) (named as openpress-team)
