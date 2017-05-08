@@ -2,6 +2,9 @@
 
 OpenPress, Global Open Press, Its a web engine.
 
+## Notice
+OpenPress currently is **under active development** so this not available for now. You can watch this repo for any updates.
+
 ## What is it?
 
 OpenPress is a web software you can use to create a beautiful website, blog or app.
