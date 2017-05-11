@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/OpenPress/openpress/master/media/GitHub%20Page.png" alt="OpenPress Logo" />
+</p>
+
 # OpenPress
 
 OpenPress, Global Open Press, Its a web engine.
