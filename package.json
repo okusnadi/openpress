@@ -1,56 +1,27 @@
 {
   "name": "openpress",
-  "version": "0.0.0",
-  "description": "OpenPress, Global Open Press, Its a web engine.",
-  "main": "dist/openpress.js",
+  "version": "0.0.1",
+  "description": "OpenPress, Global Open Press for Everyone.",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node dist/index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/OpenPress/openpress.git"
   },
   "keywords": [
-    "press",
+    "openpress",
+    "op",
+    "cms",
     "blog",
     "engine",
-    "platform",
-    "system",
-    "blog-system",
-    "website",
-    "blogging"
+    "blog-engine"
   ],
   "author": "Bayat",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/OpenPress/openpress/issues"
   },
-  "homepage": "https://github.com/OpenPress/openpress#readme",
-  "dependencies": {
-    "body-parser": "^1.16.0",
-    "chalk": "^1.1.3",
-    "compression": "^1.6.2",
-    "cookie-parser": "^1.4.3",
-    "cors": "^2.8.1",
-    "csurf": "^1.9.0",
-    "ejs": "^2.5.6",
-    "express": "^4.14.1",
-    "express-session": "^1.15.0",
-    "lodash": "^4.17.4",
-    "moment": "^2.17.1",
-    "multer": "^1.3.0",
-    "nodemailer": "^3.0.2",
-    "passport": "^0.3.2",
-    "request": "^2.79.0",
-    "serve-static": "^1.11.2"
-  },
-  "devDependencies": {
-    "babel-preset-latest": "^6.22.0",
-    "eslint": "^3.17.1",
-    "gulp": "^3.9.1",
-    "gulp-babel": "^6.1.2",
-    "gulp-eslint": "^3.0.1",
-    "gulp-watch": "^4.3.11"
-  }
+  "homepage": "https://github.com/OpenPress/openpress#readme"
 }
