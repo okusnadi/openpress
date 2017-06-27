@@ -4,20 +4,21 @@ const path = require('path');
 const http = require('http');
 const https = require('https');
 const mime = require('mime');
+const plugin = require('./lib/plugin');
 
-const server = http.createServer();
+const server = http.createServer((request, response) => {
+  response.setHeader('X-Powered-By', 'OpenPress');
+  response.setHeader('Content-Language', 'en');
+  response.setHeader('Cache-Control', 'no-cache');
+});
 
 server.listen(8080, 'localhost', 0, () => {
-  console.log('Listen on port 8080');
+  console.log('Server is Listening on port 8080');
 });
 
 server.on('request', (request, response) => {
   let filePath = path.join(__dirname, decodeURI(request.url));
-  response.setHeader('X-Powered-By', 'OpenPress');
-  response.setHeader('Content-Language', 'en');
-  response.setHeader('Cache-Control', 'no-cache');
   response.setHeader('Content-Type', mime.lookup(filePath));
-  console.log(response.getHeaders());
   fs.stat(filePath, (err, stats) => {
     if (err) {
       response.end(err.toString());
