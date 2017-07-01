@@ -25,6 +25,12 @@ It is a CMS (it is better to say web engine) on the Node.js platform using its p
 
 and many more features comming soon...
 
+## Install Plugin
+```bash
+npm install `name`
+openpress add-plugin `name`
+```
+
 ## Join Our Community
 [Telegram](t.me/openpress)
 

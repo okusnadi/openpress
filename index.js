@@ -1,4 +1,5 @@
 const server = require('./lib/server');
+const config = require('./lib/config');
 const pkg = require('./package.json');
 
 module.exports = {
@@ -7,6 +8,12 @@ module.exports = {
   description: pkg.description,
   author: pkg.author,
   start() {
-    server.start();
+    config.load((config) => {
+      server.start(config.port, config.hostname, (httpServer) => {
+        httpServer.on('request', (request, response) => {
+
+        });
+      });
+    });
   }
 };
